@@ -1,0 +1,69 @@
+/
+
+body {
+  margin: 6;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+/*Your CSS goes here.*/
+.banner {
+  background-color: #002B5C;
+  color: white;
+  text-align: center;
+  padding: 40px 10px;
+}
+
+.banner h1 {
+  font-size: 3em;
+  margin: 0;
+  color: #ED174C;
+}
+
+h3{
+  margin-bottom: 20px;
+  line-height: 1.8;
+
+}
+
+
+
+body {
+  background-color: #F5F5F5;
+}
+
+.red-line {
+  border-bottom: 2px solid #ED174C;
+  padding-bottom: 10px;
+}
+
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+h2 {
+  font-size: 1.2em;
+  font-weight: normal;
+  line-height: 1.8;
+}
+
+footer {
+  background-color: #002B5C;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+  font-size: 15px
+}
+
+.caption {
+  font-size: 20pxpx;
+  color: #666666;
+  text-align: center;
+  padding: 8px 0;
+  font-style: italic;
+}
